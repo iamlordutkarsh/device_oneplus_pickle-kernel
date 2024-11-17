@@ -203,6 +203,7 @@ arm_dsu_pmu.ko
 mtk-swpm.ko
 mtk-swpm-dbg-common-v1.ko
 mtk-swpm-dbg-v6895.ko
+pmsr.ko
 jpeg-driver.ko
 mtk_ccd_remoteproc.ko
 ccd_rpmsg.ko
@@ -235,6 +236,7 @@ uload_ind.ko
 load_track.ko
 trace_mmstat.ko
 pmsr.ko
+spmtwam.ko
 oplus_wificapcenter.ko
 sec.ko
 spmtwam.ko
