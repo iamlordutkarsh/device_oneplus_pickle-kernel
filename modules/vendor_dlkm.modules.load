@@ -235,8 +235,6 @@ widevine_driver.ko
 uload_ind.ko
 load_track.ko
 trace_mmstat.ko
-pmsr.ko
-spmtwam.ko
 oplus_wificapcenter.ko
 sec.ko
 spmtwam.ko
